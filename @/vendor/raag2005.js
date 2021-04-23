@@ -1,1 +1,1 @@
-const nam = "hey"
+console.log('Det er en test hjemmeside')
